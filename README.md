@@ -1,4 +1,5 @@
-<div align="center">![train](https://github.com/user-attachments/assets/87e644f4-9186-46be-9472-fbcd5a195819)</div>
+<div align="center"></div>
+ <img src="![train](https://github.com/user-attachments/assets/87e644f4-9186-46be-9472-fbcd5a195819)" alt="animated" />
 
 <h1 align="center">Welcome!</h1>
 
