@@ -1,4 +1,4 @@
-<h1 align="center">![train](https://github.com/user-attachments/assets/87e644f4-9186-46be-9472-fbcd5a195819)</h1>
+<div align="center">![train](https://github.com/user-attachments/assets/87e644f4-9186-46be-9472-fbcd5a195819)</div>
 
 <h1 align="center">Welcome!</h1>
 
